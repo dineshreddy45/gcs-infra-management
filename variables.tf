@@ -1,14 +1,14 @@
 variable "project_id" {
-    type = string
-  
+  type = string
+
 }
 
 variable "project_region" {
-    type = string
-  
+  type = string
+
 }
 
 variable "bucket_location" {
-    type = string
-  
+  type = string
+
 }
